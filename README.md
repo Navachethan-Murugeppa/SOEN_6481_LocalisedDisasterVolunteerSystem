@@ -4,14 +4,14 @@ Localised Disaster Volunteer Co-ordiantion System is a platform and an applicati
 
 To describe our solution to the above problem statement, a detailed project analysis is carried out as per the project management standards. This repository contains all the below mentioned documents.
 
-# Douments:
+# Documents:
 
 1. Problem Identification - Identifying the potential problem statement to justify the solution.
-2. Market Analysis - Market analysis and identification of market competitiors and their approach to solve the problem. SWOT analysis to identify the competitors strength and weakness.
+2. Market Analysis - Market analysis and identification of market competitors and their approach to solve the problem. SWOT analysis to identify the competitors strength and weakness.
 3. Feasibility Study - Identifying the feasibility study of the proposed idea in terms of Technology, operations and Ecnomics.
 4. Solution Proposal - Detailed explainaition of the proposed solution.
 5. Project Plan - Execution plan, breakdown of project into deliverables, milestones and the deadline of the project delivery along with other necessary plans for the project Management.
-6. Risk Assessment - Identifying the possible risks in terms of human resources, technology, implementation and other unforseen risks that arises during the project implmentation process are presumed and noted paraleey and documneted for future scope.
+6. Risk Assessment - Identifying the possible risks in terms of human resources, technology, implementation and other unforseen risks that arises during the project implmentation process are presumed and noted parallely and documneted for future scope.
 7. Budget Plan - Budget analysis over different aspect of the project development. Includes budget allocation for human resources, tecnhology and contengency budget to tackle the unknown changes during the project management.
 
 # Team Members:
