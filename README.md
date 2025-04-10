@@ -14,7 +14,7 @@ To describe our solution to the above problem statement, a detailed project anal
 6. Risk Assessment - Identifying the possible risks in terms of human resources, technology, implementation and other unforseen risks that arises during the project implmentation process are presumed and noted paraleey and documneted for future scope.
 7. Budget Plan - Budget analysis over different aspect of the project development. Includes budget allocation for human resources, tecnhology and contengency budget to tackle the unknown changes during the project management.
 
-# Team Mmbers:
+# Team Members:
 
 1. Aditya Sawant (40311540)
 2. Saranraj Sivakumar (40306771)
