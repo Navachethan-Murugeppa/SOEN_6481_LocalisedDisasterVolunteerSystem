@@ -1,4 +1,4 @@
-# SOEN_6481_LocalisedDisasterVolunteerSystem
+# (SOEN 6481) Localised Disaster Volunteer System
 
 Localised Disaster Volunteer Co-ordiantion System is a platform and an application mainly focused on providing the services in terms of communication and co-ordiantion for the volunteers group working in the disaster prone site. We aim to provide the necessary services so as to help the volunteers who are employeed in the disaster recovery task to work efficiently adn get the right resources required to tackle the disaster site. Ai driven application helps in identifying the volunteers with right skills for the disaster type and approach nearby local volunteers with the skills for help to enhance the work of rescue people stuck in disaster.
 
